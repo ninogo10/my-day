@@ -13,4 +13,4 @@
 *.nav
 *.snm
 *.vrb
-*.xdv
+*.xdv.DS_Store
