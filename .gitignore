@@ -1,16 +1,28 @@
-# LaTeX pomožne datoteke
+# VSCode uporabniške nastavitve
+.vscode/
+
+# LaTeX
 *.aux
-*.log
-*.fls
-*.fdb_latexmk
-*.synctex.gz
-*.out
-*.toc
-*.lof
-*.lot
 *.bbl
 *.blg
+*.fdb_latexmk
+*.toc
+*.fls
+*.idx
+*.ilg
+*.ind
+*.log
 *.nav
+*.out
+*.pdf
 *.snm
-*.vrb
-*.xdv.DS_Store
+*.synctex.gz
+*.synctex(busy)
+
+# Arhivi, iz katerih smo datoteke že odpakirali
+*.zip
+
+# MacOS
+__MACOSX
+.DS_Store
+
